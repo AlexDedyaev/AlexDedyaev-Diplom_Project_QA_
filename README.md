@@ -1,3 +1,5 @@
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/AlexDedyaev/AlexDedyaev-Diplom_Project_QA_/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/AlexDedyaev/AlexDedyaev-Diplom_Project_QA_/actions/workflows/jekyll-gh-pages.yml)
+
 # Инструкция по запуску автотестов мобильного приложения «Мобильный хоспис».
 
 ## Предварительные требования
