@@ -17,7 +17,7 @@
 Откройте терминал (командную строку) и выполните команду для клонирования репозитория:
 
 ```bash
-git clone https://github.com/AlexDedyaev/AlexDedyaev-Diplom_Project_QA_
+git clone https://github.com/AlexDedyaev/Diplom_Project_QA_
 ```
 
 Дождитесь завершения клонирования.
